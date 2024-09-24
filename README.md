@@ -1,0 +1,1 @@
+# SOC-Automation-Lab-Detection-and-Response-with-LimaCharlie-Tines-TheHive-Wazuh-and-Sysmon
